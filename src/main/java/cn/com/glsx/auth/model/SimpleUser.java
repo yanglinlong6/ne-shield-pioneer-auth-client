@@ -8,5 +8,6 @@ public class SimpleUser {
     private Long id;
     private String account;
     private String username;
+    private Integer blacklist;
 
 }
