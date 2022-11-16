@@ -11,6 +11,10 @@
 
     <artifactId>ne-shield-pioneer-auth-client</artifactId>
 
+    <properties>
+        <revision>1.0.0-SNAPSHOT</revision>
+    </properties>
+
     <dependencies>
         <!-- feign -->
         <dependency>
